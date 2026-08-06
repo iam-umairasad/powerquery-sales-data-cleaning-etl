@@ -309,4 +309,6 @@ This project was completed by following the **"Power Query Master Class for Powe
 
 Where noted above (see the country code extraction step in Phase 4), I made one deliberate, documented deviation from the tutorial's exact method — chosen for its flexibility with real-world data — while staying true to the overall approach and goals taught in the course.
 
+**Source:** "https://youtu.be/PNPenl9rLus?si=p9AM47xEf1q87XR4"
+
 **A huge thank you to Baraa Khatib Salkini for putting together such a practical, hands-on course.**
